@@ -20,5 +20,5 @@ This project is a part of my **Prodigy InfoTech Data Science Internship (Task 02
 * Created visualizations to identify trends and relationships.
 * Performed correlation analysis to gain meaningful insights.
 
-**Dataset:** Titanic Dataset (Kaggle)
+**Dataset:** Titanic Dataset (Kaggle/Open source)
 
